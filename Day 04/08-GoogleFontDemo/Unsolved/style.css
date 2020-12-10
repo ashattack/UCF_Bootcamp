@@ -1,0 +1,15 @@
+/**
+ * Google Fonts Demo
+ **/
+h1, h2, h3, h4 {
+    font-family: 'Nerko One';
+}
+
+p {
+    font-family: 'Ranchers', cursive;
+}
+
+.thought2 {
+    font-family: 'East Sea Dokdo', cursive;
+}
+/* Add in the Google Fonts of your choice */

@@ -1,0 +1,41 @@
+
+a:link {
+    color: #FF0000;
+  }
+  
+  
+  a:visited {
+    color: #00FF00;
+  }
+  
+  
+  a:hover {
+    color: #FF00FF;
+  }
+  
+ 
+  a:active {
+    color: #0000FF;
+  }
+
+  .google:hover {
+      color: blue;
+  }
+
+  div:hover{
+      background-color: blue;
+  }
+
+  .para:hover {
+      background-color: tan;
+  }
+
+  .farts {
+      display: none;
+      background-color: cyan;
+      padding: 10px;
+  }
+
+  h2:hover .farts {
+      display: block;
+  }
